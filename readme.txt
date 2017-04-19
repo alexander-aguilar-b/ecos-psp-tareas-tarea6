@@ -18,8 +18,8 @@ INSTRUCCIONES PARA DESCARGAR EL PROYECTO DESDE GITHUB Y EJECUTARLO LOCALMENTE
 *********************************************************************************************************************************************************		  
 HEROKU
 *********************************************************************************************************************************************************
-1-Para validar los tests de PSP6, acceder a la siguiente URL de la aplicacion desplegada en Heroku:
-	https://mighty-anchorage-18569.herokuapp.com/psp6
+1-Para validar los tests de PSP6, acceder a la siguiente URL de la aplicacion desplegada en Heroku:	
+	https://guarded-chamber-48143.herokuapp.com/psp6
 *********************************************************************************************************************************************************
 NOTAS:
 *********************************************************************************************************************************************************		  
