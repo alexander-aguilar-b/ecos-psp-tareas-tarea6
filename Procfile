@@ -1,1 +1,1 @@
-web:    java -cp target/psp.jar uniandes.ecos.psp.PSPProgram5
+web:    java -cp target/psp.jar uniandes.ecos.psp.PSPProgram6
